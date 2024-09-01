@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "nodemon --no-warnings index.js",
-    "start": "node --no-warnings index.js"
+    "start:dev": "nodemon --no-warnings ./src/index.js",
+    "start": "node --no-warnings ./src/index.js"
   },
   "keywords": [],
   "author": "",
